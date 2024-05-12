@@ -3,7 +3,8 @@
 ![Texto alternativo](https://github.com/JaviDoria/JaviDoria/blob/feed81e0ebfa4a9f8421bee8aa990c14955dc83b/Captura%20de%20Pantalla%202024-05-12%20a%20las%209.04.05.png)
 
 Soy un entusiasta de la tecnología que ha explorado diversos ámbitos dentro de este campo en constante evolución.  
-Autodidacta y con inquietudes en  el análisis de datos y programación. 
+He participado del Boot camp en Data Analytics de la IT ACADEMY (Barcelona) ademas de un modulo de programacion en Python.
+Desarrollando habilidades en ETL y siguiendo formaciones en entornos de Google Cloud .
 
 Skills: MySql / Power BI / Python / Excel
 
