@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Javi
+### Hello there 👋, my name is Javi
 #### Data Analyst con habilidades para ETL
 ![Data Analyst con habilidades para ETL](https://www.canva.com/design/DAGE_un3_sI/mp4dMI4mynw6C8AtNl7Ivg/view?utm_content=DAGE_un3_sI&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
