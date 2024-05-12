@@ -1,5 +1,5 @@
 ### Hello there 👋, soy Javi
-#### Data Analyst con habilidades en ETL
+#### Data Analyst 
 ![Texto alternativo](https://github.com/JaviDoria/JaviDoria/blob/7f08e555d1ad9e4b6b9a15eea76b31e520ffaa99/Banner.png)
 
 Soy un entusiasta de la tecnología que ha explorado diversos ámbitos dentro de este campo en constante evolución.  
