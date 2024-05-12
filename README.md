@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Javi
+### Hello there 👋, soy Javi
 #### Data Analyst con habilidades en ETL
 ![Texto alternativo](https://github.com/JaviDoria/JaviDoria/blob/feed81e0ebfa4a9f8421bee8aa990c14955dc83b/Captura%20de%20Pantalla%202024-05-12%20a%20las%209.04.05.png)
 
