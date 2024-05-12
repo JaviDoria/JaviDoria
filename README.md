@@ -1,6 +1,5 @@
 ### Hello there 👋, my name is Javi
 #### Data Analyst con habilidades en ETL
-![Data Analyst con habilidades en ETL]
 (https://www.canva.com/design/DAGE_l83e6U/8aozDeT1yvGeq2fFFhUsOQ/edit?utm_content=DAGE_l83e6U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 Soy un entusiasta de la tecnología que ha explorado diversos ámbitos dentro de este campo en constante evolución.  
