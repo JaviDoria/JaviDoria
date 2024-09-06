@@ -13,14 +13,8 @@
 Skills: MySql / Power Query / Power Pivot / DAX / Power BI / Tableau / Python / Pandas / Matplotlib / Seaborn / Numpy / Mongo DB / Excel
 
 
-<a href="https://www.linkedin.com/in/javier-doria/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40" style="vertical-align: middle;">
-</a>
-<a href="https://www.datascienceportfol.io/JaviDoria">
-  <img src="https://github.com/user-attachments/assets/d35ef14f-d3b3-4d4b-a058-601c5abe6c0b" alt="Image Description" height="40" style="vertical-align: middle;">
-</a>
 
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/javier-doria/) [<img src='https://github.com/user-attachments/assets/d35ef14f-d3b3-4d4b-a058-601c5abe6c0b' alt='Image Description' width='45'>](https://www.datascienceportfol.io/JaviDoria)
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/javier-doria/) [<img src='https://github.com/user-attachments/assets/d35ef14f-d3b3-4d4b-a058-601c5abe6c0b' alt='Image Description' height='40'>](https://www.datascienceportfol.io/JaviDoria)
 
 
 
