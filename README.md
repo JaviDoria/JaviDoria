@@ -1,4 +1,4 @@
-### Hello there 👋, soy Javi
+### Hello there 👋, I'm Javi
 #### Data Analyst 
 ![Texto alternativo](https://github.com/JaviDoria/JaviDoria/blob/7f08e555d1ad9e4b6b9a15eea76b31e520ffaa99/Banner.png)
 
