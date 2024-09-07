@@ -10,7 +10,7 @@
 
 👀I’m looking for an opportunity to apply my experience and analytical skills in a dynamic organization that values data-driven solutions and continuous growth.
 
-Skills: ![image](https://github.com/user-attachments/assets/517fee82-e9ce-4609-b525-54be9f644e8b)
+Skills: ![image](https://github.com/user-attachments/assets/517fee82-e9ce-4609-b525-54be9f644e8b "height='40")
  / Power Query / Power Pivot / DAX / Power BI / Tableau / Python / Pandas / Matplotlib / Seaborn / Numpy / Mongo DB / Excel
 
 
