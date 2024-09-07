@@ -11,7 +11,9 @@
 👀I’m looking for an opportunity to apply my experience and analytical skills in a dynamic organization that values data-driven solutions and continuous growth.
 
 Skills: 
-<img src="https://github.com/user-attachments/assets/517fee82-e9ce-4609-b525-54be9f644e8b" alt="mysql" width="60" height="30"> <img src="https://github.com/user-attachments/assets/b493dc95-b3e4-456e-ab49-cce777081d7a" alt="image" width="60" height="30" />
+<img src="https://github.com/user-attachments/assets/517fee82-e9ce-4609-b525-54be9f644e8b" alt="mysql" width="60" height="30"> <img src="https://github.com/user-attachments/assets/b493dc95-b3e4-456e-ab49-cce777081d7a" alt="image" width="60" height="30" /> <img src="https://github.com/user-attachments/assets/c21776de-9989-4364-a25e-a7c0d4bc3d3d" alt="image" width="60" height="30" />
+
+
 
 
 
