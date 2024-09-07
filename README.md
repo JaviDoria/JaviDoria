@@ -11,7 +11,11 @@
 👀I’m looking for an opportunity to apply my experience and analytical skills in a dynamic organization that values data-driven solutions and continuous growth.
 
 Skills: 
-<img src="https://github.com/user-attachments/assets/517fee82-e9ce-4609-b525-54be9f644e8b" alt="mysql" width="60" height="30"> <img src="https://github.com/user-attachments/assets/b493dc95-b3e4-456e-ab49-cce777081d7a" alt="image" width="60" height="30" /> <img src="https://github.com/user-attachments/assets/c21776de-9989-4364-a25e-a7c0d4bc3d3d" alt="image" width="60" height="30" /> <img src="https://github.com/user-attachments/assets/dd3886af-55c0-4841-933e-e7037cc17619" alt="image" width="60" height="30" /> <img src="https://github.com/user-attachments/assets/d99d4317-2525-4e15-bc63-45996862cfe0" alt="image" width="60" height="30" />
+<img src="https://github.com/user-attachments/assets/517fee82-e9ce-4609-b525-54be9f644e8b" alt="mysql" width="60" height="30"> <img src="https://github.com/user-attachments/assets/b493dc95-b3e4-456e-ab49-cce777081d7a" alt="image" width="60" height="30" /> <img src="https://github.com/user-attachments/assets/c21776de-9989-4364-a25e-a7c0d4bc3d3d" alt="image" width="60" height="30" /> <img src="https://github.com/user-attachments/assets/dd3886af-55c0-4841-933e-e7037cc17619" alt="image" width="60" height="30" /> <img src="https://github.com/user-attachments/assets/d99d4317-2525-4e15-bc63-45996862cfe0" alt="image" width="60" height="30" /> <img src="https://github.com/user-attachments/assets/6c33e6c0-2055-4136-aa97-128a7498eb86" alt="image" width="60" height="30" /> <img src="https://github.com/user-attachments/assets/85a28bbd-7ddd-4e96-bbc7-b0c958822506" alt="image" width="60" height="30" />
+
+
+
+
 
 
 
