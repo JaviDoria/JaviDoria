@@ -2,13 +2,17 @@
 #### Data Analyst 
 ![Texto alternativo](https://github.com/JaviDoria/JaviDoria/blob/7f08e555d1ad9e4b6b9a15eea76b31e520ffaa99/Banner.png)
 
-👋🏼Hi, I’m Javi, a professional with over 20 years of experience leading teams and operations in the service industry, having held positions like restaurant manager and assistant supermarket manager. With a strong track record in leadership and a versatile skill set, I’ve decided to pursue my true passion: technology and data analysis.
+👋🏼 Hi, I’m Javi, a professional transitioning into the Data field.
+In the summer of 2024, I participated in the Data Analytics Bootcamp at the IT-Academy of Barcelona Activa. This experience sparked my interest in reinventing myself professionally, equipping me with new tools and skills that fueled my passion and commitment to this field.
 
-👨🏻‍🎓Recently, I completed a Data Analytics Boot Camp at IT-Academy, where I developed key skills in tools like Python, MySQL, Power BI, MongoDB, and GitHub. These competencies allow me to extract, clean, transform, and visualize data to generate actionable insights. I also have a technical background in telecommunications and hands-on experience in software and hardware maintenance.
+👨🏻‍🎓 I’ve developed expertise in tools such as Python, MySQL, Power BI, MongoDB, and GitHub.
+These skills enable me to extract, clean, transform, and visualize data to generate actionable insights. My technical background in telecommunications, combined with hands-on experience in software and hardware maintenance, has provided me with a solid foundation in technology. Seeking further growth, I joined a Machine Learning Reskilling program, which exceeded my expectations. This experience broadened my perspective, taught me to approach problems creatively, and strengthened my ability to independently research and implement solutions—key qualities for a Data Analyst.
 
-📊My strengths include critical thinking, time management, effective communication, and a strong capacity for self-learning. Paired with my leadership and organizational experience, these skills enable me to quickly adapt to tech environments and bring immediate value. I’m proficient in Catalan and English at a B1 level, and I also have basic knowledge of Portuguese, allowing me to integrate easily into multicultural teams.
+📊 My strengths include critical thinking, time management, and effective communication, along with a strong capacity for self-learning.
+Additionally, my leadership and organizational experience enable me to adapt quickly to tech environments and contribute value from day one. I’m a native Spanish speaker, proficient in Catalan and English at a B1 level and have basic knowledge of Portuguese, making me a great fit for multicultural teams.
 
-👀I’m looking for an opportunity to apply my experience and analytical skills in a dynamic organization that values data-driven solutions and continuous growth.
+👀 I’m eager to apply my analytical skills and experience in a dynamic organization
+where data-driven solutions and continuous growth are valued.
 
 Tech Skills:  
 
